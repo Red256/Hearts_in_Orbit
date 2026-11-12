@@ -1941,3 +1941,27 @@ div.desc {
   text-align: center;
   opacity: 0.6;
 }
+/* Home page focus cards: the JS adds .visible to each card (not the grid),
+   so the grid itself must stay visible and the cards fade in one by one. */
+.focus-areas-grid.slide-stagger {
+  opacity: 1;
+}
+
+.focus-areas-grid.slide-stagger .focus-card {
+  opacity: 0;
+}
+
+.focus-areas-grid.slide-stagger .focus-card.visible {
+  animation: focusCardIn 0.7s ease-out forwards;
+}
+
+@keyframes focusCardIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
