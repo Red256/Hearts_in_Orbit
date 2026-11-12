@@ -1,6 +1,6 @@
 # Hearts in Orbit
 
-**Website: red256.github.io/Hearts_in_Orbit**
+**Website: [red256.github.io/Hearts_in_Orbit](https://red256.github.io/Hearts_in_Orbit/)**
 
 Hearts in Orbit is a youth-led initiative exploring how music can support mental wellness in many environments, from outer space to underserved communities.
 
