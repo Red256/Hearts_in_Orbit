@@ -21,4 +21,4 @@ This repository contains the source for the official Hearts in Orbit website.
 
 ## Contributing
 
-Interested in getting involved with Hearts in Orbit? Visit the [Join page](https://www.heartsinorbit.org/join.html) on the website. For changes to the site itself, open an issue or a pull request.
+Interested in getting involved with Hearts in Orbit? Visit the [Join page](https://red256.github.io/Hearts_in_Orbit/join.html) on the website.
